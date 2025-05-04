@@ -4,6 +4,8 @@ GTA V Natives Documentation
 Documentation of GTA V's native function database.
 
 https://docs.fivem.net/natives/
+int SHIFT_LEFT(int value, int bitShift);
+Comment
 
 Contributing
 ------------
